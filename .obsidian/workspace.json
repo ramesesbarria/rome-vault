@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4b734659db14c2",
+        "id": "a713061ada092d16",
         "type": "tabs",
         "children": [
           {
-            "id": "37f439611de42082",
+            "id": "56c2e0d8627dd7fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "45c47560bc61c0d6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "E:\\obsidian\\rome-vault",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CS3204N",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2026-3/Programming Languages Class/0_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0_Index"
             }
           },
           {
@@ -153,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2026-3/Programming Languages Class/0_Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 0_Index"
             }
           },
           {
@@ -195,20 +152,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2026-3/Programming Languages Class/0_Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0_Index"
+            }
+          },
+          {
+            "id": "828c83ec18e67069",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +187,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45c47560bc61c0d6",
+  "active": "56c2e0d8627dd7fc",
   "lastOpenFiles": [
-    "Welcome.md"
+    "2026-3/Programming Languages Class/0_Index.md",
+    "2026-3/Programming Languages Class/Statement-Level Control Structures.md",
+    "2026-3/Programming Languages Class/Documents/PL-PPT6.pdf",
+    "2026-3/Programming Languages Class/Documents/PL-PPT5.pdf",
+    "2026-3/Programming Languages Class/Documents/CONCEPTS OF PROGRAMMING LANGUAGES.pdf",
+    "2026-3/Programming Languages Class/Data Types.md",
+    "2026-3/Programming Languages Class/Names, Bindings, and Scopes.md",
+    "PL‑PPT4.pdf.md",
+    "Welcome.md",
+    "2026-3/Programming Languages Class/Documents/PL-PPT4.pdf",
+    "2026-3/Programming Languages Class/Intro to Metalanguages.md",
+    "2026-3/Programming Languages Class/Programming Domains & Language Evaluation Criteria.md",
+    "2026-3/Programming Languages Class/Syntax & Semantics.md",
+    "2026-3/Prompt/notes-to-md-dense-prompt.md",
+    "2026-3/Programming Languages Class/Documents/PL-PPT3.pdf",
+    "2026-3/Programming Languages Class/Documents/PL-PPT1.pdf",
+    "2026-3/Programming Languages Class/Documents/PL-PPT2.pdf",
+    "CS3204N Programming Languages – PL-PPT1.md",
+    "2026-3/Prompt",
+    "PL-PPT1.md",
+    "2026-3/Main Index.md",
+    "2026-3/Programming Languages Class/Documents",
+    "PL-PPT1.pdf.md",
+    "2026-3/Programming Languages Class"
   ]
 }
