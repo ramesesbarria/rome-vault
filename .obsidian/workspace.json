@@ -4,17 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "a713061ada092d16",
+        "id": "010e6cf00b3cc0e5",
         "type": "tabs",
         "children": [
           {
-            "id": "56c2e0d8627dd7fc",
+            "id": "178e5c3348d0acea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-3/Programming Languages Class/Intro to Metalanguages.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro to Metalanguages"
+            }
+          },
+          {
+            "id": "6656f8e352ad4d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-3/Programming Languages Class/Intro to Metalanguages.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro to Metalanguages"
+            }
+          },
+          {
+            "id": "f17f8c219693162c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-3/Programming Languages Class/Syntax & Semantics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syntax & Semantics"
+            }
+          },
+          {
+            "id": "c53c5e24b2a30e00",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2026-3/Programming Languages Class/Documents/PL-PPT2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PL-PPT2"
+            }
+          },
+          {
+            "id": "c3b7289ad8f90eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-3/Programming Languages Class/Programming Domains & Language Evaluation Criteria.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programming Domains & Language Evaluation Criteria"
             }
           }
         ]
@@ -191,9 +249,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56c2e0d8627dd7fc",
+  "active": "178e5c3348d0acea",
   "lastOpenFiles": [
     "2026-3/Programming Languages Class/0_Index.md",
+    "2026-3/Programming Languages Class/Programming Domains & Language Evaluation Criteria.md",
+    "2026-3/Programming Languages Class/Syntax & Semantics.md",
+    "2026-3/Programming Languages Class/Intro to Metalanguages.md",
+    "2026-3/Programming Languages Class/Documents/PL-PPT2.pdf",
+    "2026-3/Programming Languages Class/Documents/PL-PPT7.pdf",
     "2026-3/Programming Languages Class/Statement-Level Control Structures.md",
     "2026-3/Programming Languages Class/Documents/PL-PPT6.pdf",
     "2026-3/Programming Languages Class/Documents/PL-PPT5.pdf",
@@ -203,19 +266,14 @@
     "PL‑PPT4.pdf.md",
     "Welcome.md",
     "2026-3/Programming Languages Class/Documents/PL-PPT4.pdf",
-    "2026-3/Programming Languages Class/Intro to Metalanguages.md",
-    "2026-3/Programming Languages Class/Programming Domains & Language Evaluation Criteria.md",
-    "2026-3/Programming Languages Class/Syntax & Semantics.md",
     "2026-3/Prompt/notes-to-md-dense-prompt.md",
     "2026-3/Programming Languages Class/Documents/PL-PPT3.pdf",
     "2026-3/Programming Languages Class/Documents/PL-PPT1.pdf",
-    "2026-3/Programming Languages Class/Documents/PL-PPT2.pdf",
     "CS3204N Programming Languages – PL-PPT1.md",
     "2026-3/Prompt",
     "PL-PPT1.md",
     "2026-3/Main Index.md",
     "2026-3/Programming Languages Class/Documents",
-    "PL-PPT1.pdf.md",
-    "2026-3/Programming Languages Class"
+    "PL-PPT1.pdf.md"
   ]
 }

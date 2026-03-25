@@ -156,7 +156,7 @@
 - **Example:**
     
     ```
-    timeout = 1      ← ambiguoustimeout = true   ← clear
+    timeout = 1 ← ambiguous | timeout = true ← clear
     ```
     
 
